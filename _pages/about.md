@@ -21,7 +21,6 @@ Genomics of population divergence
 ------
 Our research investigates how species rapidly adapt to changing environments at the genomic level, examining the genetic architecture and evolutionary dynamics behind swift phenotypic shifts. We employ cutting-edge genomic tools to identify the signatures of rapid adaptation in natural populations. 
 
-Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 Evolution of genes and genomes
