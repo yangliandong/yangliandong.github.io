@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
+We are interested in discovering the mechanisms that generate biodiversity of fishes, specifically the genesis of genomic, developmental and morphological diversity as well as their evolutionary interconnections. To this end, we study: 1) phylogenies inferred from DNA sequence data to investigate speciation, historical biogeography, and the timing of lineage diversification, 2) morphological differentiation and its genetic basis within a phylogenetic framework, 3) genomic divergence among populations and species, and 4) the evolution of genomes and important functional genes. We currently use molecular and bioinformatic approaches, to ask how many and what kind of genetic changes accompany morphological differentiation among populations and species.
 
 Phylogeny
 ------
