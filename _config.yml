@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yang.png"
   name             : "Liandong Yang"
   pronouns         : # example: "she/her"  
   bio              : "Fish evolutionary genomics / yangliandong1987@163.com"
