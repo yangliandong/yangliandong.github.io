@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-7570-0296"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Liandong-Yang"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
