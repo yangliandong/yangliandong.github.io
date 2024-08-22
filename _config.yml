@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Institute of Hydrobiology, Chinese Academy of Sciences yangliandong1987@163.com yangld@ihb.ac.cn"
   location         : "Wuhan, China"
-  employer         : "Institute of Hydrobiology, CAS"
+  employer         : # "Institute of Hydrobiology, CAS"
   uri              : # URL
   email            : # URL
 
